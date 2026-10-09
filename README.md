@@ -1,2 +1,2 @@
-# clash-
+# clash-rules
 chatgpt网址
